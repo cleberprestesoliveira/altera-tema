@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+ font-size:45px ;
+}
+
+button{
+
+    margin: 20px;
+    padding:20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.claro{
+    background-color:rgb(219, 226, 233);
+    color: black;
+}
+
+.escuro{
+    background-color:black;
+    color: white;
+}
+
+.fire{
+    background-color: red;
+    color:orange;
+}
+.love{
+    background-color: pink;
+    color: red;
+}
